@@ -1,0 +1,1 @@
+/mnt/c/My/Kursevi/Udemy/Near/The_complete_Near_B-c_S-c/fundraising-rust/contract/target/wasm32-unknown-unknown/release/hello_near.wasm: /mnt/c/My/Kursevi/Udemy/Near/The_complete_Near_B-c_S-c/fundraising-rust/contract/src/lib.rs /mnt/c/My/Kursevi/Udemy/Near/The_complete_Near_B-c_S-c/fundraising-rust/contract/src/pledge.rs
